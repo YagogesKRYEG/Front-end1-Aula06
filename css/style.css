@@ -1,13 +1,16 @@
+page{
+    color: rgb(202, 202, 166);
+}
 .job-title{
-    color: red;
-    background-color: black;
+    color: grey;
+    background-color: blue;
 }
 
 #high{
-    color: yellow;
-    background-color: yellowgreen;
+    color: darkblue;
 }
 
-.yellow{
-    background-color: yellow;
+.black{
+    color: white;
+    background-color: black;
 }
